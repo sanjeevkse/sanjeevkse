@@ -42,6 +42,8 @@ src="https://img.shields.io/github/followers/sanjeevkse?logo=github&style=for-th
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/sanjeevkse" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/sanjeevkse" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/sanjeevkse" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a></p>
+
+<!-- 
 ### Badges
 
 <b>My GitHub Stats</b>
@@ -53,3 +55,4 @@ src="https://img.shields.io/github/followers/sanjeevkse?logo=github&style=for-th
 <a href="http://www.github.com/sanjeevkse"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=sanjeevkse&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/sanjeevkse" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjeevkse&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+-->
