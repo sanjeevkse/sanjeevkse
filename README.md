@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer
 --------------------
 
-I am a full stack developer having experience of 8+ years in Software Industry. Been an IC and a team member of 20+ strength. Started my career in web app developement where I worked on HTML, CSS, template building, SCSS, jQuery, PHP, MySQL and project management. Continued working as front end web developer along with helping and writing snippets for the backend teams with architecturing it. Showed interest and worked in React, ReactNative for 5+ years.
+I am a full stack developer having experience of 10+ years in Software Industry. Been an IC and a team member of 20+ strength. Started my career in web app developement where I worked on HTML, CSS, template building, SCSS, jQuery, PHP, MySQL and project management. Continued working as front end web developer along with helping and writing snippets for the backend teams with architecturing it. Showed interest and worked in React, ReactNative for 5+ years.
 
 * 🌍  I'm based in Bangalore, India
 * 🖥️  See my portfolio at [My Profile](http://sanjeevkse.com)
