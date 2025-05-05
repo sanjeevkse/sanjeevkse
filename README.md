@@ -57,4 +57,5 @@ src="https://img.shields.io/github/followers/sanjeevkse?logo=github&style=for-th
 <a href="https://github.com/sanjeevkse" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjeevkse&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 -->
 
-<img width="448" alt="Screenshot 2024-07-09 at 08 19 35" src="https://github.com/sanjeevkse/sanjeevkse/assets/4029801/2e8ac71a-0e00-4225-9eb9-c401c306c1d0">
+<img width="448" alt="Screenshot 2025-05-05 at 23 13 08" src="https://github.com/user-attachments/assets/bd2ab765-ec31-4c5f-96c7-2303e9b9b581" />
+
